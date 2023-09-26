@@ -25,8 +25,8 @@
       </a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-          alt="typescript"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+          alt="Dart&Flutter"
           width="40"
           height="40"
         />
