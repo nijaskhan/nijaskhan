@@ -98,7 +98,7 @@
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+      src="https://www.vectorlogo.zone/logos/devops/devops-icon.svg"
       alt="graphql"
       width="40"
       height="40"
