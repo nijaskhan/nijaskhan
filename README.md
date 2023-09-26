@@ -57,8 +57,8 @@
       </a>
       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original-wordmark.svg"
-          alt="Bootstrap"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mui/mui-original-wordmark.svg"
+          alt="Material-UI"
           width="40"
           height="40"
         />
