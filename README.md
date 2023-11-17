@@ -23,14 +23,6 @@
           height="40"
         />
       </a>
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
-          alt="Dart&Flutter"
-          width="40"
-          height="40"
-        />
-      </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -39,12 +31,12 @@
           height="40"
         />
       </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb"
-          width="40"
-          height="40"
+          src="https://img.icons8.com/nolan/64/react-native.png"
+          alt="react-native"
+          width="50"
+          height="50"
         />
       </a>
       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
@@ -57,7 +49,7 @@
       </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+          src="https://img.icons8.com/nolan/64/express-js.png"
           alt="express"
           width="40"
           height="40"
@@ -65,11 +57,27 @@
       </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="https://img.icons8.com/color/48/amazon-web-services.png"
       alt="aws"
       width="40"
       height="40"
     />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        alt="mongodb"
+        width="40"
+        height="40"
+      />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
@@ -125,13 +133,13 @@
       height="40"
     />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+        alt="Dart&Flutter"
+        width="40"          
+        height="40"
+      />
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
